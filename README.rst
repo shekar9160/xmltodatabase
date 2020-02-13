@@ -1,4 +1,7 @@
   **This project is currently not maintained.**
+  
+  **** Please read https://pypi.org/project/dbbot-sqlalchemy/ ****
+  For further installation and work with dbbot. Because sometimes it gives error
 
 DbBot
 =====
